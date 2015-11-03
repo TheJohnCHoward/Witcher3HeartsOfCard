@@ -1,13 +1,6 @@
 # Witcher3HeartsOfCard
 
-Planning:
-scripts\game\player\r4Player.ws
-// GWINT
-OnGwintGameRequested
+This mod is aimed at removing all of the annoying minigames, like combat, from the game and streamlining the full Gwent experience.
 
-scripts\game\temp.ws
-line 9646
-
-scripts\game\gui\menus\gwintManager.ws
-
-scripts\game\gameplay\damage\damageManagerProcessor.ws
+CHANGELOG
+0.1 - Gwent game is triggered by an enemy or the player taking damage. Enemy deck is fully randomized. On win, all enemies within 30 units are killed. On loss, player dies.
