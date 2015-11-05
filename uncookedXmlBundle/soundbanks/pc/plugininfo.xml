@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginInfo Project="w3_audio" Platform="Windows" Key="489FF75D-3" Motion="false">
+	<Plugins>
+		<Plugin Name="Wwise Silence" ID="6619138" />
+		<Plugin Name="Wwise Tone Generator" ID="6684674" />
+		<Plugin Name="Wwise Parametric EQ" ID="6881283" />
+		<Plugin Name="Wwise Compressor" ID="7077891" />
+		<Plugin Name="Wwise Peak Limiter" ID="7208963" />
+		<Plugin Name="Wwise Matrix Reverb" ID="7536643" />
+		<Plugin Name="Wwise RoomVerb" ID="7733251" />
+	</Plugins>
+</PluginInfo>
