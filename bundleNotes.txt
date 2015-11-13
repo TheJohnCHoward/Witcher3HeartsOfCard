@@ -1,0 +1,4 @@
+Install Witcher 3 mod tools
+Move file from uncookedBundles to modBundleFiles
+Edit
+Run bundle.bat
