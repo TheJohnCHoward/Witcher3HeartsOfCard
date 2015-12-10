@@ -3,4 +3,5 @@
 This mod is aimed at removing all of the annoying minigames, like combat, from the game and streamlining the full Gwent experience.
 
 CHANGELOG
+0.2 - Added basic scaling system and better recognition of enemies. The decks do slightly scale on selected game difficulty, so be aware of that. The campaign should be fully playable.
 0.1 - Gwent game is triggered by an enemy or the player taking damage. Enemy deck is fully randomized. On win, all enemies within 30 units are killed. On loss, player dies.

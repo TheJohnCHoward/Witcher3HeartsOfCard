@@ -1,0 +1,9 @@
+1. Get JPEXS Free Flash Decompiler: https://github.com/jindrapetrik/jpexs-decompiler/releases
+2. Point W3Edit to your installs
+3. Open HeartsOfCard.w3modproj in W3Edit
+4. Add desired files
+5. Double click files to open them, export the flash objects to swf
+6. Decompile and modify swf files with JPEXS
+7. Import modified file. Select yes if asked to compress
+8. Install mod with W3Edit
+9. Copy mod to output directory
