@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ExecutablePath>D:\Games\GOG Games\The Witcher 3 Wild Hunt GOTY\bin\x64\witcher3.exe</ExecutablePath>
+  <TextLanguage>en</TextLanguage>
+  <VoiceLanguage>en</VoiceLanguage>
+  <WCC_Lite>D:\dev\Witcher 3 Mod Tools\bin\x64\wcc_lite.exe</WCC_Lite>
+  <MainSize>
+    <Width>585</Width>
+    <Height>399</Height>
+  </MainSize>
+  <InitialModDirectory>D:\dev\repos\Witcher3HeartsOfCard</InitialModDirectory>
+  <EnableFlowTreeEditor>false</EnableFlowTreeEditor>
+  <MainLocation>
+    <X>254</X>
+    <Y>250</Y>
+  </MainLocation>
+  <MainState>Minimized</MainState>
+</Configuration>
